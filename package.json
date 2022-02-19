@@ -1,0 +1,14 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "This Is My Personal Server",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 6452"
+  },
+  "author": "Developer Achem",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

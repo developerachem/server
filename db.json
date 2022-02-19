@@ -1,0 +1,216 @@
+{
+    "student": [
+        {
+            "name": "Achem",
+            "age": 22,
+            "Loocation": "mirpur"
+        },
+        {
+            "name": "Akash",
+            "age": 18,
+            "Loocation": "Lokkhipur"
+        },
+        {
+            "name": "Rahim",
+            "age": 25,
+            "Loocation": "CTG"
+        },
+        {
+            "name": "Rabbi",
+            "age": 31,
+            "Loocation": "Jossore"
+        },
+        {
+            "name": "Shakil",
+            "age": 22,
+            "Loocation": "Khulna"
+        }
+    ],
+    "teacher": [
+        {
+            "name": "Rayhan",
+            "age": 35,
+            "loocation": "Bogura"
+        },
+        {
+            "name": "ACHEM",
+            "age": 23,
+            "loocation": "DHAKA"
+        },
+        {
+            "name": "Hasan",
+            "age": 22,
+            "loocation": "Comilla"
+        },
+        {
+            "name": "Azam",
+            "age": 60,
+            "loocation": "Potuakhali"
+        }
+    ],
+    "productData": [{
+            "id": 1,
+            "img": "https://i.ibb.co/9wVVZtf/deshi-kola.jpg",
+            "name": "Banana",
+            "rPrice": 100,
+            "price": 99
+        },
+        {
+            "id": 2,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/pepe.jpg",
+            "name": "Papaya",
+            "rPrice": 80,
+            "price": 76
+        },
+        {
+            "id": 3,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/sweet-orange.jpg",
+            "name": "Orange",
+            "rPrice": 300,
+            "price": 256
+        },
+        {
+            "id": 4,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/paka-kola.jpg",
+            "name": "Banana 1pcs",
+            "rPrice": 20,
+            "price": 16
+        },
+        {
+            "id": 5,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2017/06/loose-egg-1.jpg",
+            "name": "Dim 1pcs",
+            "rPrice": 11,
+            "price": 8
+        },
+        {
+            "id": 6,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/gajor.jpg",
+            "name": "Gajor 1kg",
+            "rPrice": 61,
+            "price": 50
+        },
+        {
+            "id": 7,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/3100174_19.webp",
+            "name": "Goru 1kg",
+            "rPrice": 820,
+            "price": 800
+        },
+        {
+            "id": 8,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/kumra.jpg",
+            "name": "Kumra 1kg",
+            "rPrice": 300,
+            "price": 25
+        },
+        {
+            "id": 9,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/lalshakh.jpg",
+            "name": "Lal Shakh 1mutha",
+            "rPrice": 15,
+            "price": 13
+        },
+        {
+            "id": 10,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2017/06/2901063.jpg",
+            "name": "Apple 1kg",
+            "rPrice": 150,
+            "price": 140
+        },
+        {
+            "id": 11,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/vim.jpg",
+            "name": "Vim Bar",
+            "rPrice": 35,
+            "price": 30
+        },
+        {
+            "id": 12,
+            "img": "https://swopnerbazar.com/wp-content/uploads/2021/12/Capsikam.jpg",
+            "name": "Capsicum",
+            "rPrice": 55,
+            "price": 40
+        }
+    ],
+    "catagorys": [
+        {
+            "id"      : 1,
+            "catagory": "TV"
+        },
+        {
+            "id"      : 2,
+            "catagory": "Freez"
+        },
+        {
+            "id"      : 3,
+            "catagory": "Ac"
+        },
+        {
+            "id"      : 4,
+            "catagory": "Smart TV"
+        },
+        {
+            "id"      : 5,
+            "catagory": "Smart Phone"
+        },
+        {
+            "id"      : 6,
+            "catagory": "Car"
+        },
+        {
+            "id"      : 7,
+            "catagory": "Blander"
+        },
+        {
+            "id"      : 8,
+            "catagory": "Laptop"
+        },
+        {
+            "id"      : 9,
+            "catagory": "Button Phone"
+        },
+        {
+            "id"      : 10,
+            "catagory": "Washing Machin"
+        },
+        {
+            "id"      : 11,
+            "catagory": "Fan"
+        },
+        {
+            "id"      : 12,
+            "catagory": "Router"
+        }
+    ],
+    "Brands": [ 
+        {
+            "id"     : 1,
+            "Brand"  : "View Sonic"
+        },
+        {
+            "id"     : 2,
+            "Brand"  : "Dell"
+        },
+        {
+            "id"     : 3,
+            "Brand"  : "Sony"
+        },
+        {
+            "id"     : 4,
+            "Brand"  : "Walton"
+        },
+        {
+            "id"     : 5,
+            "Brand"  : "Ministar"
+        },
+        {
+            "id"     : 6,
+            "Brand"  : "Sumsung"
+        },
+        {
+            "id"     : 7,
+            "Brand"  : "Apple"
+        }
+    ]
+}
